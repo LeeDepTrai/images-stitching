@@ -1,2 +1,2 @@
 # images-stitching
-Stitches image into a panorama
+Stitches 2 images into a big image.
